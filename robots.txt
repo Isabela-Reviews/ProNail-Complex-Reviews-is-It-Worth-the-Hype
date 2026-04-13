@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://isabela-reviews.github.io/ProNail-Complex-Reviews-is-It-Worth-the-Hype/sitemap.xml
